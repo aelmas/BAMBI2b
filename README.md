@@ -34,6 +34,8 @@ input sequence (default: 1)<br/>
 -sm : (optional) Flag for searching minor (secondary) sites via maximum likelihood estimation (default: false)<br/>
 -op : (optional) Block similarity metric. Use the option 2 for a faster block symmetry estimation. Option 2 ignores the default cross-entropy calculations between blocks, and only counts the symmetric base-word ratios. (default: 1)
 
+-- For more detail, please see Readme.pdf --<br/>
+
 Please cite:<br/>
 Abdulkadir Elmas, Xiaodong Wang and Michael S. Samoilov<br/>
 Reconstruction of novel transcription factor regulons through inference of their binding sites<br/>
